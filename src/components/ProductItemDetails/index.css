@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.imgcard {
+  height: 600px;
+  width: 500px;
+  border-radius: 10px;
+}
+.main-card {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.card {
+  margin-left: 30px;
+
+  width: 500px;
+}
+.dis {
+  font-family: roboto;
+}
+.avail {
+  font-family: roboto;
+  font-size: 20px;
+}
+span {
+  font-family: roboto;
+  font-size: 15px;
+  color: #616e7c;
+}
+.p {
+  font-family: roboto;
+  background-color: #3b82f6;
+  width: 50px;
+  padding: 5px;
+  display: flex;
+  border-radius: 10px;
+}
+.price {
+  font-family: roboto;
+}
+.title {
+  font-family: roboto;
+  font-weight: bold;
+  font-size: 30px;
+  color: #1e293b;
+}
